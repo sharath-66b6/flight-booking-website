@@ -1,5 +1,0 @@
-# before running the app, rename this file to .env and fill in the values
-# MONGO_URL = mongodb+srv://skr:1234@sharath.fy6xus8.mongodb.net/test
-# JWT_TOKEN = f64b6790ba78cd243e0c5849dc5e7fd97c47e8f37234fe6403b1432a4a7705caadcc729936593a00939b3bd0e3554533961121715e4ffeac1b84cc10835a4d95
-# STRIPE_SECRET_KEY = sk_test_51RMuuM2cQeRwr84vpUBUhDZCZoRYwRYJVEaIAhXidfGn4HuJOU0Ru2qm2u3XNvgrJVlfkjBPekLWTWnRnUndpiBo00tQAVGodw
-# CLIENT_SITE_URL = http://localhost:5173/
