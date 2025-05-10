@@ -1,0 +1,43 @@
+[
+    {
+      "airlineName": "IndiGo",
+      "airlineLogo": "https://static.goindigo.in/content/dam/indigov2/6e-website/homepage/header-logo/icIndigoLogoBlueR-new.svg"
+    },
+    {
+      "airlineName": "Air India",
+      "airlineLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Air_India_2023.svg/168px-Air_India_2023.svg.png"
+    },
+    {
+      "airlineName": "SpiceJet",
+      "airlineLogo": "https://upload.wikimedia.org/wikipedia/commons/9/91/New_SpiceJet_Logo.png"
+    },
+    {
+      "airlineName": "Vistara",
+      "airlineLogo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Vistra_logo.svg"
+    },
+    {
+      "airlineName": "Go First",
+      "airlineLogo": "https://airhex.com/airline-logos/go-first/go_first.png"
+    },
+    {
+      "airlineName": "AirAsia India",
+      "airlineLogo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/AirAsia_New_Logo_%282020%29.svg"
+    },
+    {
+      "airlineName": "Air India Express",
+      "airlineLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Air_India_Express_logo.svg/512px-Air_India_Express_logo.svg.png"
+    },
+    {
+      "airlineName": "Alliance Air",
+      "airlineLogo": "https://airhex.com/airline-logos/alliance-air/alliance_air.png"
+    },
+    {
+      "airlineName": "TruJet",
+      "airlineLogo": "https://seeklogo.com/images/T/trujet-logo-55A5353520-seeklogo.com.png"
+    },
+    {
+      "airlineName": "Star Air",
+      "airlineLogo": "https://airhex.com/airline-logos/star-air-india/star_air.png"
+    }
+  ]
+  
